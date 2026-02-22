@@ -22,7 +22,9 @@ c
 #include <stdio.h>
 
 int main() {
+    
     int arr[] = {10, 25, 30, 45, 50};
+    
     int n = 5;
     int key, i;
     int found = 0;
