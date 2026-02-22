@@ -19,6 +19,7 @@ This is a beginner-friendly example for understanding searching techniques in C.
  Source Code
 
 c
+
 #include <stdio.h>
 
 int main() {
